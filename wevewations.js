@@ -27,7 +27,7 @@ function tweet() {
         status: vewse
     };
 
-    // t.post('statuses/update', tweet, tweeted);
+    t.post('statuses/update', tweet, tweeted);
 
     function tweeted(err, data, response) {
         if(err) {
