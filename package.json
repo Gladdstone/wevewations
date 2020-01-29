@@ -1,0 +1,15 @@
+{
+  "name": "wevewations",
+  "version": "1.0.0",
+  "description": "End times uwu",
+  "main": "wevewations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Farrell",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "twit": "^2.2.11"
+  }
+}
