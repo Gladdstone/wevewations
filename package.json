@@ -9,7 +9,7 @@
   "author": "Joseph Farrell",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "twit": "^2.2.11"
   }
 }
